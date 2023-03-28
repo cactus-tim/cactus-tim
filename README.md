@@ -1,4 +1,4 @@
-### Hi, my name is Tima Sosnin 👋
+### Hello, my name is Tima Sosnin 👋
 
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -32,9 +32,6 @@
     ![OpenCV](https://img.shields.io/badge/OpenCv-yellow?style=for-the-badge&logo=opencv&logoColor=white)
     ![Pytorch](https://img.shields.io/badge/PyTorch-salmon?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<br>
-
-
 </p>
 
 <br>
@@ -57,7 +54,6 @@
 </a>
 </div>
 
-<br>
 <br>
 <br>
 
@@ -89,4 +85,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
-<br>
+
