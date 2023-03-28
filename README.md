@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi, my name is Tima Sosnin 👋
 
-<!--
-**cactus-tim/cactus-tim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :men_technologist: About me
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
